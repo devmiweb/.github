@@ -35,14 +35,6 @@ Fondée par **Yanis Cerruti**, l'agence accompagne les professionnels locaux dan
 
 ---
 
-## Nos dépôts
-
-| Dépôt | Description |
-|-------|-------------|
-| [devmiweb-changelog](https://github.com/devmiweb/devmiweb-changelog) | Journal des mises à jour design & SEO du site |
-
----
-
 ## Contact
 
 | | |
